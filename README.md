@@ -15,6 +15,7 @@ pip install tensorflow jupyterlab
 4. <a href="https://youtu.be/vw6nCSDDekc">Parameter Calculations for Neural Networks</a>
 5. <a href="https://youtu.be/9Qg5VbS4m6o">Image Classification</a>
 6. <a href="https://youtu.be/ik9LTqS4u0A">Dropout Regularization</a>
+7. <a href="https://youtu.be/aDpDuGMlrlU">Data Augmentation</a>
 
 <hr>
 If you like my content subscribe to my <a href="https://www.youtube.com/c/RaunakJoshi">YouTube</a> channel.<br>
